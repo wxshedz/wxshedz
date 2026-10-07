@@ -15,7 +15,7 @@ I make websites and web apps, and I'm currently working on a few personal projec
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma)
 
 **Tools**  
-![Tools](https://skillicons.dev/icons?i=git,figma,vscode,vercel,cloudflare) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Tools](https://skillicons.dev/icons?i=git,figma,vscode,vercel,cloudflare,claude) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## Projects
 
