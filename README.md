@@ -1,7 +1,7 @@
 <h1 align="center">Adil (wxshed)</h1>
 
 <p align="center">
-  Web Developer based in Spain
+  Web Developer from Spain
 </p>
 
 <p align="center">
