@@ -1,27 +1,20 @@
-<h1 align="center">Hi, I'm Adil 👋</h1>
+<h1 align="center">Adil (wxshed)</h1>
 
 <p align="center">
-  <b>Web Developer from Spain</b><br />
-  I build fast, clean websites and modern web applications.
+  Web Developer from Spain
+</p>
+
+<p align="center">
+  I build websites and modern web applications.<br />
+  Currently working on a few personal projects and exploring new web technologies.
 </p>
 
 <p align="center">
   <a href="https://www.jixen.xyz/"><img src="https://img.shields.io/badge/Portfolio-jixen.xyz-161B22?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:wxshedz@proton.me"><img src="https://img.shields.io/badge/Email-Proton-161B22?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/wxshedz_"><img src="https://img.shields.io/badge/X-@wxshedz__-161B22?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-wxshedz-161B22?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://buymeacoffee.com/wxshed"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee" /></a>
-</p>
-
-<br />
-
-<h2 align="center">About</h2>
-
-<p align="center">
-  🌍 Based in Spain<br />
-  🔭 Working on personal projects<br />
-  🌱 Exploring new web technologies<br />
-  📫 Reach me at <a href="mailto:wxshedz@proton.me">wxshedz@proton.me</a>
+  <a href="mailto:wxshedz@proton.me"><img src="https://img.shields.io/badge/Email-Proton-161B22?style=for-the-badge" alt="Email" /></a>
+  <a href="https://x.com/wxshedz_"><img src="https://img.shields.io/badge/X-wxshedz__-161B22?style=for-the-badge" alt="X" /></a>
+  <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-wxshedz-161B22?style=for-the-badge" alt="Discord" /></a>
+  <a href="https://buymeacoffee.com/wxshed"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge" alt="Buy Me a Coffee" /></a>
 </p>
 
 <br />
@@ -29,18 +22,35 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <b>Frontend</b><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" alt="Frontend stack" />
+  <b>Frontend</b><br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8b949e" alt="Next.js" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="48" height="48" />
 </p>
 
 <p align="center">
-  <b>Backend</b><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,prisma&perline=6" alt="Backend stack" />
+  <b>Backend</b><br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />&nbsp;
+  <img src="https://cdn.simpleicons.org/express/8b949e" alt="Express" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" />&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/8b949e" alt="Prisma" width="48" height="48" />
 </p>
 
 <p align="center">
-  <b>Tooling</b><br />
-  <img src="https://skillicons.dev/icons?i=git,figma,vscode,vercel,cloudflare&perline=5" alt="Tooling" />
+  <b>Tooling</b><br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/8b949e" alt="Vercel" width="48" height="48" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="48" height="48" />&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48" />
 </p>
 
 <br />
@@ -58,14 +68,10 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/wxshedz" alt="Contribution graph" width="90%" />
-</p>
-
 <br />
 
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  🚧 Coming soon. Check out my <a href="https://www.jixen.xyz/">portfolio</a> in the meantime.
+  Coming soon. Currently working on personal projects.
 </p>
