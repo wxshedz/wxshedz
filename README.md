@@ -13,7 +13,7 @@
   <a href="https://www.jixen.xyz/"><img src="https://img.shields.io/badge/Portfolio-jixen.xyz-161B22?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:wxshedz@proton.me"><img src="https://img.shields.io/badge/Email-Proton-161B22?style=for-the-badge" alt="Email" /></a>
   <a href="https://x.com/wxshedz_"><img src="https://img.shields.io/badge/X-wxshedz__-161B22?style=for-the-badge" alt="X" /></a>
-  <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-wxshedz-161B22?style=for-the-badge" alt="Discord" /></a>
+  <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-08xa-161B22?style=for-the-badge" alt="Discord" /></a>
   <a href="https://buymeacoffee.com/wxshed"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge" alt="Buy Me a Coffee" /></a>
 </p>
 
@@ -51,21 +51,6 @@
   <img src="https://cdn.simpleicons.org/vercel/8b949e" alt="Vercel" width="48" height="48" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="48" height="48" />&nbsp;
   <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48" />
-</p>
-
-<br />
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wxshedz&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wxshedz&show_icons=true&hide_border=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wxshedz&layout=compact&hide_border=true&theme=github_dark" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxshedz&layout=compact&hide_border=true" />
-  </picture>
 </p>
 
 <br />
