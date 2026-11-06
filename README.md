@@ -13,7 +13,7 @@
   <a href="https://www.jixen.xyz/"><img src="https://img.shields.io/badge/Portfolio-jixen.xyz-161B22?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:wxshedz@proton.me"><img src="https://img.shields.io/badge/Email-Proton-161B22?style=for-the-badge" alt="Email" /></a>
   <a href="https://x.com/wxshedz_"><img src="https://img.shields.io/badge/X-wxshedz__-161B22?style=for-the-badge" alt="X" /></a>
-  <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-08xa-161B22?style=for-the-badge" alt="Discord" /></a>
+  <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-08xa.-161B22?style=for-the-badge" alt="Discord" /></a>
   <a href="https://buymeacoffee.com/wxshed"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge" alt="Buy Me a Coffee" /></a>
 </p>
 
