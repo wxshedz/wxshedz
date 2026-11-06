@@ -1,17 +1,17 @@
 <h1 align="center">Adil (Jixen)</h1>
 
 <p align="center">
-  Web Developer from Spain
+  Web developer · Node.js
 </p>
 
 <p align="center">
-  I build websites and modern web applications.<br />
-  Currently working on a few personal projects and exploring new web technologies.
+  I'm a web developer from Spain.<br />
+  I build fast, clean websites and web apps, and I work with Node.js.
 </p>
 
 <p align="center">
   <a href="https://www.jixen.xyz/"><img src="https://img.shields.io/badge/Portfolio-jixen.xyz-161B22?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:jixendev@gmail.com"><img src="https://img.shields.io/badge/Email-Proton-161B22?style=for-the-badge" alt="Email" /></a>
+  <a href="mailto:wxshedz@proton.me"><img src="https://img.shields.io/badge/Email-Proton-161B22?style=for-the-badge" alt="Email" /></a>
   <a href="https://x.com/wxshedz_"><img src="https://img.shields.io/badge/X-wxshedz__-161B22?style=for-the-badge" alt="X" /></a>
   <a href="https://discord.com/users/1198188355280719897"><img src="https://img.shields.io/badge/Discord-wxshedz-161B22?style=for-the-badge" alt="Discord" /></a>
   <a href="https://buymeacoffee.com/wxshed"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161B22?style=for-the-badge" alt="Buy Me a Coffee" /></a>
@@ -73,5 +73,10 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  Coming soon. Currently working on personal projects.
+  <a href="https://de.jixen.xyz"><b>Digital Essentials</b></a><br />
+  A curated hub of websites, tweaks, step-by-step guides and shortcuts for IT, web development and design.
+</p>
+
+<p align="center">
+  More personal projects and open source repositories on <a href="https://github.com/wxshedz">GitHub</a>.
 </p>
